@@ -11,5 +11,15 @@ namespace Domain
         public int Sum(int left, int right)
         => left + right;
         
+
+        public int Diff(int left, int right)
+        => left - right;
+
+
+        public int Div(int left, int right)
+            => left / right;
+
+        public int Multiply(int left, int right)
+            => left * right;
     }
 }
