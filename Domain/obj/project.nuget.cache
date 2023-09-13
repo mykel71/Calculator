@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rr8jwJzi5aK/UR8lS9lGI7euEpYw0HNg5GIPauWUQTvDRQfdVxmzWCfLdkOLL5jwW75UF37ls54srmVQ+xazSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ezeki\\source\\repos\\Calculator\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ezeki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ezeki\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ezeki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
